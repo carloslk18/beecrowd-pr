@@ -12,3 +12,4 @@ C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\teste\obj\Debug\net8.0\ref
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\teste\obj\Debug\net8.0\teste.pdb
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\teste\obj\Debug\net8.0\ref\teste.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\teste\obj\Debug\net8.0\teste.sourcelink.json
