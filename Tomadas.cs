@@ -5,8 +5,6 @@ namespace BeeCrowd{
 class Tomadas{
     public void PR1930(){
 
-        int total = 0;
-
         var rules = Console.ReadLine();
         string [] ruleParts = rules.Split(' ');
         int rule1 = Int32.Parse(ruleParts[0]);
@@ -18,11 +16,14 @@ class Tomadas{
             rule1, rule2, rule3, rule4
         };
 
+        int sockets = 0;
         foreach (int num in socket){
-          total += num; 
+          sockets += num; 
         }
 
-        Console.WriteLine (total-3);
+        int total = sockets-3;
+
+        Console.WriteLine (total);
 
     }
 }    
