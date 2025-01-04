@@ -5,8 +5,8 @@ namespace BeeCrowd{
 class Program{
     public static void Main(string [] args){
 
-       var problem = new Tomadas();
-       problem.PR1930();
+       var media = new Media();
+       media.PR1005();
 
        
     }
