@@ -1,6 +1,6 @@
 using System;
 
-namespace Teste{
+namespace BeeCrowd{
 public class Distancia {
 
     public static void PR1016(){

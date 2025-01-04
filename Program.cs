@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Teste{
+namespace BeeCrowd{
 
 class Program{
     public static void Main(string [] args){
-        //Problem();
-        //Distancia.PR1016();
-        Lanche.PR1038();
+
+       var problem = new Tomadas();
+       problem.PR1930();
+
+       
     }
 }
 }

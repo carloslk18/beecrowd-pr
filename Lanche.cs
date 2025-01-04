@@ -1,14 +1,14 @@
 using System;
 using System.Reflection.Metadata;
 
-namespace Teste{
+namespace BeeCrowd{
 
 class Lanche{
 
     public static void PR1038(){
         string val = Console.ReadLine();
         string[] valParts = val.Split(" ");
-        double cod = Double.Parse(valParts[0]);
+        int cod = Int32.Parse(valParts[0]);
         double qnt = Double.Parse(valParts[1]);
         double total = 0;
 

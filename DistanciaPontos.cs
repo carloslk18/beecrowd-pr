@@ -1,6 +1,6 @@
 using System;
 
-namespace Teste{
+namespace BeeCrowd{
 public class DistanciaPontos {
 
     public static void Problem(){
