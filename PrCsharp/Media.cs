@@ -1,7 +1,7 @@
 using System;
 using System.Numerics;
 
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 public class Media{
     

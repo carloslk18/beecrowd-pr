@@ -1,5 +1,5 @@
 using System;
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 class Salario{
 

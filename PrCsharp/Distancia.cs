@@ -1,6 +1,6 @@
 using System;
 
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 public class Distancia {
 
     public static void PR1016(){

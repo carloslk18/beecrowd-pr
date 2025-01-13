@@ -1,6 +1,6 @@
 using System;
 
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 interface IVoador{
     public void Voar();

@@ -1,7 +1,7 @@
 using System;
 using System.Reflection.Metadata;
 
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 class Lanche{
 

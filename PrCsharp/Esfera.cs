@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 class Esfera{
 

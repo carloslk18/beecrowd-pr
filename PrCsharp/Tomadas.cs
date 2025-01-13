@@ -1,6 +1,6 @@
 using System;
 using System.Numerics;
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 
 class Tomadas{
     public void PR1930(){

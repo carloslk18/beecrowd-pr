@@ -1,6 +1,6 @@
 using System;
 
-namespace BeeCrowd{
+namespace BeeCrowd.PrCsharp{
 public class DistanciaPontos {
 
     public static void Problem(){
