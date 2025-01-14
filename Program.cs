@@ -6,8 +6,8 @@ namespace BeeCrowd{
 class Program{
     public static void Main(string [] args){
 
-       var esfera = new Esfera();
-       esfera.PR1011();
+       var tea = new Tea();
+       tea.PR2006();
        
     }
 }
