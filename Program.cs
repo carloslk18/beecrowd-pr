@@ -6,8 +6,8 @@ namespace BeeCrowd{
 class Program{
     public static void Main(string [] args){
 
-       var area = new Area();
-       area.PR1012();
+       IdadeDias idadeDias = new IdadeDias();
+       idadeDias.PR1020();
        
     }
 }
