@@ -43,6 +43,12 @@ public class Bigger{
         int maiorABC = (maiorAB + c + Math.Abs(maiorAB-c))/2;
 
         return maiorABC;
+
+        int maiorAB = (a + b + Math.Abs(a-b))/2;
+        
+        int maiorABC = (maiorAB + c + Math.Abs(maiorAB-c))/2;
+
+        return maiorABC;
     }
 }
 }
