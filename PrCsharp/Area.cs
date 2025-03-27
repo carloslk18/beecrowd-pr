@@ -62,8 +62,5 @@ public class Area{
         double area;
         area = bas * altura;
         return area;public double cRetantulo(double bas, double altura){
-        double area;
-        area = bas * altura;
-        return area;public double cRetantulo(double bas, double altura){
 }
 }
