@@ -14,9 +14,7 @@ class Tomadas{
 
         string [] ruleParts = rules.Split(' ');
         int rule1 = Int32.Parse(ruleParts[0]);
-        int rule2 = Int32.Parse(ruleParts[1]);
-        int rule3 = Int32.Parse(ruleParts[2]);
-        int rule4 = Int32.Parse(ruleParts[3]);string [] ruleParts = rules.Split(' ');
+
 
     
 
