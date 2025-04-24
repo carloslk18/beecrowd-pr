@@ -23,11 +23,6 @@ public class Area{
         Console.WriteLine($"TRAPEZIO: {trapezio:F3}");
         Console.WriteLine($"QUADRADO: {quadrado:F3}");
         Console.WriteLine($"RETANGULO: {retangulo:F3}");
-
-         Console.WriteLine($"TRIANGULO: {triangulo:F3}");
-        Console.WriteLine($"CIRCULO: {circulo:F3}");
-        Console.WriteLine($"TRAPEZIO: {trapezio:F3}");
-
     }
 
     public double cTriangulo(double bas ,double altura){
