@@ -8,6 +8,15 @@ class Program{
 
        Bigger calculo = new Bigger();
        calculo.PR1013v2();
+       Bigger calculo = new Bigger();
+       calculo.PR1013v2();       Bigger calculo = new Bigger();
+       calculo.PR1013v2();       Bigger calculo = new Bigger();
+       calculo.PR1013v2();       Bigger calculo = new Bigger();
+       calculo.PR1013v2();       Bigger calculo = new Bigger();
+       calculo.PR1013v2();
+
+               Bigger calculo = new Bigger();
+       calculo.PR1013v2();
     
     }
 }
