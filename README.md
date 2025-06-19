@@ -17,6 +17,5 @@ Este repositório contém minhas soluções para exercícios de programação co
 
 ---
 
-📌 **Repositório mantido por [Carlos Barbosa](https://github.com/carloslk18)**  
-📬 Sugestões ou melhorias? Fique à vontade para abrir uma *issue* ou *pull*
+📌 **Repositório mantido por [Carlos Barbosa](https://github.com/carloslk18)**
 
