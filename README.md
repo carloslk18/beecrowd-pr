@@ -1,6 +1,6 @@
 # Desafios de Programação – Beecrowd & LeetCode
 
-Este repositório contém minhas soluções para exercícios de programação competitiva resolvidos na plataforma [**Beecrowd** (antigo URI)](https://www.beecrowd.com.br/), com o objetivo de praticar lógica, algoritmos e aprofundar conhecimentos em estruturas de dados e resolução de problemas.
+Este repositório contém minhas soluções para exercícios de programação competitiva resolvidos na plataforma [**Beecrowd**](https://www.beecrowd.com.br/), com o objetivo de praticar lógica, algoritmos e aprofundar conhecimentos em estruturas de dados e resolução de problemas.
 
 ## O que você vai encontrar aqui
 
