@@ -17,6 +17,24 @@ public class Tea{
         }
 
         Console.WriteLine(accepts);
+
+        int accepts = 0;
+        foreach (var x in fv){
+            if (x == val1){
+                accepts++;
+            }
+        }
+
+        Console.WriteLine(accepts);
+
+        int accepts = 0;
+        foreach (var x in fv){
+            if (x == val1){
+                accepts++;
+            }
+        }
+
+        Console.WriteLine(accepts);
     }
 }
 }
