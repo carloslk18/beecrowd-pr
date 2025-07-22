@@ -65,9 +65,3 @@ public class Tea{
             }
         }
 
-        Console.WriteLine(accepts);
-
-        int accepts = 0;
-    }
-}
-}
