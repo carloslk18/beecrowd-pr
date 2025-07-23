@@ -58,10 +58,4 @@ public class Tea{
         string val2 = Console.ReadLine();
         string[] fv = val2.Split(" ");
 
-        int accepts = 0;
-        foreach (var x in fv){
-            if (x == val1){
-                accepts++;
-            }
-        }
 
