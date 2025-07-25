@@ -51,8 +51,3 @@ using System;
 namespace BeeCrowd.PrCsharp{
 
 public class Tea{
-    public void PR2006(){
-        
-        string val1 = Console.ReadLine();
-
-
