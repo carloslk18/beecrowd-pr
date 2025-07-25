@@ -54,8 +54,5 @@ public class Tea{
     public void PR2006(){
         
         string val1 = Console.ReadLine();
-        
-        string val2 = Console.ReadLine();
-        string[] fv = val2.Split(" ");
 
 
