@@ -48,6 +48,3 @@ public class Tea{
 }
 }
 using System;
-namespace BeeCrowd.PrCsharp{
-
-public class Tea{
