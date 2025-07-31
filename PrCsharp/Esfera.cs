@@ -30,13 +30,6 @@ class Esfera{
     public void PR1011(){
 
         int radius = Convert.ToInt32(Console.ReadLine());
-
-        var vol = calc(radius);
-
-        Console.WriteLine($"VOLUME = {vol:F3}");
-
-    }
-
    
 }
 }
