@@ -27,9 +27,7 @@ class Esfera{
 
 
     const double pi = 3.14159;
-    public void PR1011(){
 
-        int radius = Convert.ToInt32(Console.ReadLine());
    
 }
 }
