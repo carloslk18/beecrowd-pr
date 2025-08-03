@@ -22,9 +22,5 @@ class Esfera{
         
         return calc1;
     }
-
-    class Esfera{
-
-   
 }
 }
