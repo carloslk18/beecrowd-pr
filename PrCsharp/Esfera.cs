@@ -27,10 +27,5 @@ class Esfera{
         
         return calc1;
     }
-     public static double calc(int radius){
-        double calc1 = (4/3.0) * pi * Math.Pow(radius,3);
-        
-        return calc1;
-    }
 }
 }
