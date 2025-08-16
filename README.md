@@ -14,8 +14,6 @@ Este repositório contém minhas soluções para exercícios de programação co
 - Praticar para entrevistas técnicas e competições
 - Construir um histórico de aprendizado contínuo
 - Servir como material de consulta pessoal e para a comunidade
-
 ---
-
 📌 **Repositório mantido por [Carlos Barbosa](https://github.com/carloslk18)**
 
