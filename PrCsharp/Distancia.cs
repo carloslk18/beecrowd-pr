@@ -61,9 +61,6 @@ public class Distancia {
         int val = Convert.ToInt32(Console.ReadLine());
 
         val *= 2;
-
-        Console.WriteLine($"{val} minutos");
-            public static void PR1016(){
     }
 }
 }
