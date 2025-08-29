@@ -56,9 +56,6 @@ public class Distancia {
         val *= 2;
 
         Console.WriteLine($"{val} minutos");
-
-        public static void PR1016(){
-
     }
 }
 }
