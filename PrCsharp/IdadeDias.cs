@@ -122,8 +122,6 @@ public class IdadeDias{
         }
 
         Console.WriteLine($"{ano} ano(s)");
-        Console.WriteLine($"{mes} mes(es)");
-        Console.WriteLine($"{dia} dia(s)");
-    }
+        Console.WriteLine($"{mes} mes(es)");    }
 }
 }
