@@ -119,8 +119,6 @@ public class IdadeDias{
         }
         else{
             dia = val % 365;
-        }
 
-        Console.WriteLine($"{ano} ano(s)");
 }
 }
