@@ -118,7 +118,6 @@ public class IdadeDias{
             dia = (val % 365) - (30*mes);
         }
         else{
-            dia = val % 365;
 
 }
 }
