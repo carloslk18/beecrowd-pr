@@ -115,9 +115,6 @@ public class IdadeDias{
         mes = val % 365 / 30;
 
         if (val % 365 >= 30){
-            dia = (val % 365) - (30*mes);
-        }
-        else{
 
 }
 }
