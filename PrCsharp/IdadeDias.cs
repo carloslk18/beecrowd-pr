@@ -110,7 +110,5 @@ public class IdadeDias{
         int ano, mes, dia;
 
         var val = int.Parse(Console.ReadLine());
-
-        ano = val / 365;
 }
 }
