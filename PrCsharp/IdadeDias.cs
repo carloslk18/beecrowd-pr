@@ -108,7 +108,5 @@ public class IdadeDias{
     public void PR1020(){
 
         int ano, mes, dia;
-
-        var val = int.Parse(Console.ReadLine());
 }
 }
