@@ -105,7 +105,6 @@ public class IdadeDias{
         Console.WriteLine($"{mes} mes(es)");
         Console.WriteLine($"{dia} dia(s)");public class IdadeDias{
     
-    public void PR1020(){
 ;
 }
 }
