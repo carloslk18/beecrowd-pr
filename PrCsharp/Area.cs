@@ -186,8 +186,6 @@ public class Area{
         return area;
     }
     public double cRetantulo(double bas, double altura){
-        double area;
-
 }
 
      public double cRetantulo(double bas, double altura){    
