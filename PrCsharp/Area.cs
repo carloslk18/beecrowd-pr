@@ -187,5 +187,3 @@ public class Area{
     }
     public double cRetantulo(double bas, double altura){
 }
-
-     public double cRetantulo(double bas, double altura){    
