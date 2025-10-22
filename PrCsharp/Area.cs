@@ -179,5 +179,3 @@ public class Area{
         area = lado * lado;
         return area;
     }
-
-    public double cRetantulo
