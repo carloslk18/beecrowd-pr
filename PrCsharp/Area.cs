@@ -175,4 +175,3 @@ public class Area{
     }
 
     public double cQuadrado(double lado){
-        double area;
