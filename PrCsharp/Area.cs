@@ -173,5 +173,3 @@ public class Area{
         area = (bas1 + bas2) * altura / 2;
         return area;
     }
-
-    public double cQuadrado(double lado){
