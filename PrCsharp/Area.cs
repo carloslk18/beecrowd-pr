@@ -172,4 +172,3 @@ public class Area{
         double area;
         area = (bas1 + bas2) * altura / 2;
         return area;
-    }
