@@ -136,7 +136,7 @@ public class Area{
         var val = Console.ReadLine();
         string [] aVal = val.Split(' ');
         double a = double.Parse(aVal[0]);
-        double b = double.Parse(aVal[1]);
+        double b = double.Parse(aVal[1
         double c = double.Parse(aVal[2]);
 
 
