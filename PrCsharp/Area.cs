@@ -167,5 +167,3 @@ public class Area{
     }
 
     public double cTrapezio(double bas1, double bas2, double altura){
-
-        double area;
