@@ -165,5 +165,3 @@ public class Area{
         area = 3.14159 * Math.Pow(raio,2);
         return area;
     }
-
-    public double cTrapezio(double bas1, double bas2, double altura){
