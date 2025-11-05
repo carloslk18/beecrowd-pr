@@ -162,6 +162,4 @@ public class Area{
     public double cCirculo(double raio){
 
         double area;
-        area = 3.14159 * Math.Pow(raio,2);
-        return area;
-    }
+        area = 3.14159 * Math.Pow(raio,2
