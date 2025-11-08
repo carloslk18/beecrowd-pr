@@ -158,5 +158,3 @@ public class Area{
         area = bas * altura / 2;
         return area;
     }
-
-    public double cCirculo(double raio){
