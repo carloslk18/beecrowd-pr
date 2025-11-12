@@ -156,5 +156,3 @@ public class Area{
 
         double area;
         area = bas * altura / 2;
-        return area;
-    }
