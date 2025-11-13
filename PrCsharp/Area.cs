@@ -153,5 +153,3 @@ public class Area{
     }
 
     public double cTriangulo(double bas ,double altura){
-
-        double area;
