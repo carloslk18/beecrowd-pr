@@ -151,5 +151,3 @@ public class Area{
         Console.WriteLine($"QUADRADO: {quadrado:F3}");
         Console.WriteLine($"RETANGULO: {retangulo:F3}");
     }
-
-    public double cTriangulo(double bas ,double altura){
