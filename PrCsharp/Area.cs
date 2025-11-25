@@ -146,4 +146,3 @@ public class Area{
         var retangulo = cRetantulo(a,b);
 
         Console.WriteLine($"TRIANGULO: {triangulo:F3}");
-        Console.WriteLine($"CIRCULO: {circulo:F3}");
