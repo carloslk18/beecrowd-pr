@@ -80,9 +80,3 @@ public class DistanciaPontos {
 
     static void Operation(double x1, double y1, double x2, double y2){
         double pow1 = Math.Pow((x2-x1), 2);
-        double pow2 = Math.Pow((y2-y1), 2);
-        double distance = Math.Sqrt(pow1 + pow2);
-
-
-    }
-}
