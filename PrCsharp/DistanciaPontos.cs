@@ -77,6 +77,3 @@ public class DistanciaPontos {
 
         //Console.WriteLine("{0:F3} km/l",cons);
     }
-
-    static void Operation(double x1, double y1, double x2, double y2){
-        double pow1 = Math.Pow((x2-x1), 2);
