@@ -74,6 +74,3 @@ public class DistanciaPontos {
         double y2 = Convert.ToDouble(val2Parts[1]);
 
         Operation(x1,y1,x2,y2);
-
-        //Console.WriteLine("{0:F3} km/l",cons);
-    }
